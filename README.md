@@ -1,1 +1,1 @@
-This is my first ever html page about recipes
+This is my first html recipe page
